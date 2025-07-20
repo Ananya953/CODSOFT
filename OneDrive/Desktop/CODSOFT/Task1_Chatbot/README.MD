@@ -47,15 +47,14 @@ Make sure Python is installed on your system.
 
 ## 🎥 Demo Video
 
-The demo video is posted on [LinkedIn] (https://www.linkedin.com)  
-Tagged *@CodSoft* and hashtagged with *#codsoft*
+The demo video is posted on [LinkedIn] (https://www.linkedin.com/in/ananya-gowda-896a7934a)   @CodSoft and  *#codsoft*
 
 ---
 
 ## 👩‍💻 Created By
 
 *Ananya T C*  
-3rd Year, B.E. – Computer Science  
+4th Year, B.E. – Computer Science 
 Akshaya Institute of Technology  
 CodSoft AI Intern – July 2025  
 📧 ananyagowda2710@gmail.com
