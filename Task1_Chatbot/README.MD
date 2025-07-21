@@ -47,7 +47,8 @@ Make sure Python is installed on your system.
 
 ## 🎥 Demo Video
 
-The demo video is posted on [LinkedIn] (https://www.linkedin.com/in/ananya-gowda-896a7934a)   @CodSoft and  *#codsoft*
+The demo video is posted on [LinkedIn] (https://www.linkedin.com/in/ananya-gowda-896a7934a)  
+ @CodSoft and  *#codsoft*
 
 ---
 
