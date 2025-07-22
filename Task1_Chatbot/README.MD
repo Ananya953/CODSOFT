@@ -1,4 +1,4 @@
-# Task 1 – Rule-Based Chatbot 🤖
+## Task 1 – Rule-Based Chatbot 🤖
 
 This is a simple chatbot built using Python as part of CodSoft's Artificial Intelligence Virtual Internship – July 2025 batch.
 
