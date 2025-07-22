@@ -39,23 +39,23 @@ CODSOFT/
 2. Open terminal in this folder
 3. Run the game using:
 
-   "bash"
-python tictactoe.py
+      "bash"
+ python tictactoe.py
 
 ---
 
 ## Demo Video
 
 The Demo Video is posted on [linkedin] (https://www.linkedin.com/in/ananya-gowda-896a7934a)
-@CODSOFT ana #CODSOFT
+ @CODSOFT ana #CODSOFT
 
 ---
 
 ## Created By
 
 *Ananya T C*
-Akshaya Institute of technology
-codsoft AI intern - july 2025
-ananyagowda2710@gmail.com
+ Akshaya Institute of technology
+ codsoft AI intern - july 2025
+ ananyagowda2710@gmail.com
 
----
+  ---

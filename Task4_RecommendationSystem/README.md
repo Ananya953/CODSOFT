@@ -45,16 +45,16 @@ User enters a movie name → system shows 3 similar movies.
 
 ## 🎥 Demo Video
 
-The demo video is posted on [LinkedIn](https://www.linkedin.com/in/ananya-gowda-896a7934a)
-@CODSOFT and #CODSOFT
+The demo video is posted on [LinkedIn] (https://www.linkedin.com/in/ananya-gowda-896a7934a)
+ @CODSOFT and #CODSOFT
 
 ---
 
 ## Created By
 
 *Ananya T C*
-Akshaya Institution of Technology
-codsoft AI Intern  - july 2025
-ananyagowda2710@gmail.com
+ Akshaya Institution of Technology
+ codsoft AI Intern  - july 2025
+ ananyagowda2710@gmail.com
 
----
+ ---
