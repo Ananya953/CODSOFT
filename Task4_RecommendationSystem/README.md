@@ -21,6 +21,16 @@ It suggests similar movies based on a given movie's description using TF-IDF and
 
 ---
 
+## Project Structure
+
+CODSOFT/
+|__Task4_RecommendationSystem
+   |__Movie.csv
+   |__README.MD
+   |__recommendationsystem.py
+
+---
+
 ## 🧪 Sample Movies
 
 Matrix, Avengers, Inception, Interstellar, John Wick etc.
